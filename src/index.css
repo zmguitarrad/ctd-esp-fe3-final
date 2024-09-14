@@ -215,3 +215,6 @@ dark nav {
 .dark .card h3:hover{
 color: #12121296;
 }
+footer{
+  background-color: red;
+}
